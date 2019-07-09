@@ -1,0 +1,8 @@
+# Programs Gitignore
+
+## Temporary Ignore Oh-My-Zsh for submodule.
+/Oh-My-Zsh
+
+## Temporary Ignore Postman for submodule.
+/Postman
+
